@@ -38,7 +38,7 @@ let botoafegir = document.querySelector("#boto-afegir");
 
 botoafegir.addEventListener("click", function () {
   let crearli = document.createElement("li");
-  crearli.textContent = "Nou producte";
+  crearli.textContent = "Els collons den bamba (frase mitica de mi profe smx)";
   llista.appendChild(crearli);
 });
 
